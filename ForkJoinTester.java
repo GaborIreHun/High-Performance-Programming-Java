@@ -1,7 +1,7 @@
 package com.gabor.highPerformanceProgramming.week4;
 
 /**
- * @author seank This Java application allows the experimentation with the Java
+ * @author seank & GaborIreHun This Java application allows the experimentation with the Java
  * Fork Join Framework
  * Modified in accordance with Session Labs 4 by Gabor Sebestyen
  * The original code was modified from creating random numbers to create the first 100000 prime numbers,
