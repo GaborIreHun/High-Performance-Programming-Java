@@ -1,7 +1,7 @@
 //package testerasync;
 
 /**
- * @author seank
+ * @author seank & GaborIreHun
  * This Java application allows for the experimentation with Threads and Parallel Programming
  */
 import java.util.*;
