@@ -7,7 +7,7 @@ import java.util.stream.LongStream;
 
 /**
  *
- * @author seank - This program demonstrates the calculation of a Factorial
+ * @author seank & GaborIreHun - This program demonstrates the calculation of a Factorial
  * value by using recursion
  * Modified in accordance with Session Labs 4 by @author Gabor Sebestyen
  * I created iterative methods, one to that capable for valid output of n! up to 18!
